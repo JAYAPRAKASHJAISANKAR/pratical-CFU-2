@@ -1,0 +1,59 @@
+.button{
+    color:black;
+    background-color:hsl(198, 28%, 93%);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 80%;
+}
+.head{
+    display: flex;
+}
+.button-full{
+    display: flex;
+}
+.button-2{
+    background-color:hsl(22, 89%, 52%) ;
+    color: white;
+    height:40px;
+    border: none;
+    border-radius: 5px;
+}
+.image{
+    position:relative;
+    height: 200px;
+    width: 110px;
+    background-color:hsl(22, 89%, 52%) ;
+}
+    .image-1{
+    position: absolute;
+    margin-left:0px;
+}
+.keyboard{
+    display: flex;
+}
+.type{
+    display: flex;
+}
+.center{
+    display:inli;
+}
+
+.grid{
+    border: none;
+}
+.flexbox-container{
+    display: flex;
+}
+.left{
+    margin-left: 50%;
+}
+.left-para{
+    color:hsl(197, 17%, 32%);
+    margin-top: 10px;
+}
+.footer{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+}
